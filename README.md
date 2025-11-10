@@ -1,4 +1,3 @@
-<img width="1896" height="1007" alt="Screenshot 2025-10-11 183000" src="https://github.com/user-attachments/assets/d78cac37-6d82-4db2-aa4e-6789c6004aab" />
 **Project Title: Join-Journey**
 
 **Tech Stack:** HTML, CSS, JavaScript, PHP / Node.js (choose yours), MySQL (or Firebase)
