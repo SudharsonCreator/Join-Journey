@@ -1,12 +1,12 @@
-# Join-Journey
-roject Title: Ride Sharing Web Application
+<img width="1896" height="1007" alt="Screenshot 2025-10-11 183000" src="https://github.com/user-attachments/assets/d78cac37-6d82-4db2-aa4e-6789c6004aab" />
+**Project Title: Join-Journey**
 
-Tech Stack: HTML, CSS, JavaScript, PHP / Node.js (choose yours), MySQL (or Firebase)
+**Tech Stack:** HTML, CSS, JavaScript, PHP / Node.js (choose yours), MySQL (or Firebase)
 
-Description (Resume Style):
+**Description :**
 Developed a web-based ride-sharing platform that connects drivers and passengers traveling on similar routes. The system allows users to register, create ride requests, offer rides, and match with suitable travel partners. Implemented secure user authentication, real-time ride search, and location-based matching to improve convenience and reduce travel costs.
 
-Key Responsibilities / Features:
+**Key Responsibilities / Features:**
 
 Designed responsive and user-friendly UI for booking and offering rides.
 
@@ -20,7 +20,16 @@ Managed database operations for storing user, ride, and booking details.
 
 Ensured smooth navigation, validation, and fast-loading front-end experience.
 
-Outcome / Impact:
+**Screenshot :**
+<img width="1896" height="1007" alt="Screenshot 2025-10-11 183000" src="https://github.com/user-attachments/assets/5fc51a76-68ca-4cba-b6d6-db47a89f3f48" />
+
+<img width="1898" height="1079" alt="Screenshot 2025-10-11 215234" src="https://github.com/user-attachments/assets/eb538448-4f80-4525-acda-a75e4f4e8929" />
+
+<img width="1894" height="1073" alt="Screenshot 2025-10-11 215221" src="https://github.com/user-attachments/assets/5bb47640-0bcb-4f84-9033-dce460981505" />
+
+<img width="1893" height="1051" alt="Screenshot 2025-10-11 215438" src="https://github.com/user-attachments/assets/24bbca74-a887-4b85-96c9-7d4d6a259199" />
+
+**Outcome / Impact:**
 
 Improved cost-effective travel access and encouraged vehicle sharing.
 
